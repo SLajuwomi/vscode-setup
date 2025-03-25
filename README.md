@@ -37,7 +37,9 @@
     "workbench.activityBar.location": "default",
     "prettier.singleQuote": true,
     "prettier.tabWidth": 4,
-    "editor.formatOnPaste": true
+    "editor.formatOnPaste": true,
+    "window.restoreWindows": "none"
 }
+
 
 ```
