@@ -28,9 +28,7 @@
     "editor.accessibilitySupport": "off",
     "terminal.integrated.env.windows": {},
     "git.autofetch": true,
-    "workbench.statusBar.visible": false,
     "workbench.colorTheme": "Dark Magic Night",
-    "window.menuBarVisibility": "compact",
     "workbench.layoutControl.enabled": false,
     "window.commandCenter": false,
     "window.zoomLevel": 2,
@@ -38,8 +36,12 @@
     "prettier.singleQuote": true,
     "prettier.tabWidth": 4,
     "editor.formatOnPaste": true,
-    "window.restoreWindows": "none"
+    "window.restoreWindows": "none",
+    "workbench.sideBar.location": "right",
+    "window.menuBarVisibility": "classic",
+    "workbench.statusBar.visible": true
 }
+
 
 
 ```
