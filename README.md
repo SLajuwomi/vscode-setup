@@ -1,6 +1,4 @@
-# vscode-setup
-
-﻿```json
+```json
 {
     "editor.fontFamily": "Dank Mono",
     // "editor.fontFamily": "Fragment Mono",
@@ -41,4 +39,5 @@
     "prettier.tabWidth": 4,
     "editor.formatOnPaste": true
 }
+
 ```
