@@ -9,7 +9,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "breadcrumbs.enabled": false,
     "editor.minimap.enabled": false,
-    "editor.fontSize": 10,
+    "editor.fontSize": 12,
     "editor.lineNumbers": "off",
     "explorer.confirmDragAndDrop": false,
     "editor.wordWrap": "on",
@@ -28,10 +28,9 @@
     "editor.accessibilitySupport": "off",
     "terminal.integrated.env.windows": {},
     "git.autofetch": true,
-    "workbench.colorTheme": "Dark Magic Night",
+    "workbench.colorTheme": "Gruvbox Dark Hard",
     "workbench.layoutControl.enabled": false,
     "window.commandCenter": false,
-    "window.zoomLevel": 2,
     "workbench.activityBar.location": "default",
     "prettier.singleQuote": true,
     "prettier.tabWidth": 4,
@@ -39,10 +38,7 @@
     "window.restoreWindows": "none",
     "workbench.sideBar.location": "right",
     "window.menuBarVisibility": "classic",
-    "workbench.statusBar.visible": true
+    "workbench.statusBar.visible": true,
+    "window.zoomLevel": 1
 }
-
-
-
-
 ```
