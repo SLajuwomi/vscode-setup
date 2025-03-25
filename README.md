@@ -9,7 +9,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "breadcrumbs.enabled": false,
     "editor.minimap.enabled": false,
-    "editor.fontSize": 20,
+    "editor.fontSize": 10,
     "editor.lineNumbers": "off",
     "explorer.confirmDragAndDrop": false,
     "editor.wordWrap": "on",
@@ -41,6 +41,7 @@
     "window.menuBarVisibility": "classic",
     "workbench.statusBar.visible": true
 }
+
 
 
 
