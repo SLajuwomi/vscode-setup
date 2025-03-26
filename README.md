@@ -39,6 +39,8 @@
     "workbench.sideBar.location": "right",
     "window.menuBarVisibility": "classic",
     "workbench.statusBar.visible": true,
-    "window.zoomLevel": 2
+    "window.zoomLevel": 2,
+    "terminal.integrated.defaultProfile.windows": "Git Bash"
 }
+
 ```
